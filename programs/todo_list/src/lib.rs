@@ -15,3 +15,5 @@
 // #[derive(Accounts)]
 // pub struct Initialize {}
 pub mod schema;
+pub mod entrypoint;
+pub mod error;
